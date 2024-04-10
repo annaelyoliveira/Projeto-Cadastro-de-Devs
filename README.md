@@ -5,4 +5,4 @@ Este projeto foi um exercício que realizei durante o curso de Full Stack Javasc
 HTML, CSS e Javascript
 
 ## Demonstração 
-[screen-capture (2).webm](https://github.com/annaelyoliveira/Projeto-Cadastro-de-Devs/assets/137449419/2b2e70bf-48f5-4ebc-bb54-668d88284ff0)
+https://github.com/annaelyoliveira/Projeto-Cadastro-de-Devs/assets/137449419/2b2e70bf-48f5-4ebc-bb54-668d88284ff0
